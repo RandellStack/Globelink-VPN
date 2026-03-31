@@ -37,8 +37,8 @@ If your VPN is unstable or not working, use a more reliable solution:
 
 - ✔ Android  
 - ✔ Windows / PC  
-- ✔ macOS (manual setup)  
-- ✔ iOS (manual setup)  
+- ✔ macOS 
+- ✔ iOS 
 
 ---
 
@@ -78,8 +78,8 @@ If your VPN is unstable or not working, use a more reliable solution:
 
 - ✔ 安卓  
 - ✔ Windows / PC  
-- ✔ macOS（手动配置）  
-- ✔ iOS（手动配置）  
+- ✔ macOS
+- ✔ iOS  
 
 ---
 
@@ -119,8 +119,8 @@ https://i12a.win/gl
 
 - ✔ Android  
 - ✔ Windows / PC  
-- ✔ macOS (ручная настройка)  
-- ✔ iOS (ручная настройка)  
+- ✔ macOS 
+- ✔ iOS  
 
 ---
 
@@ -160,8 +160,8 @@ https://i12a.win/gl
 
 - ✔ اندروید  
 - ✔ ویندوز  
-- ✔ macOS (تنظیم دستی)  
-- ✔ iOS (تنظیم دستی)  
+- ✔ macOS 
+- ✔ iOS 
 
 ---
 
