@@ -37,20 +37,30 @@ If your VPN is unstable or not working, use a more reliable solution:
 
 - ✔ Android  
 - ✔ Windows / PC  
-- ✔ macOS 
-- ✔ iOS 
+- ✔ macOS  
+- ✔ iOS  
 
 ---
 
 ## 🔑 Free Trial
 
-👉 Register and start testing immediately
+👉 Register and start testing immediately  
 
 ---
 
 ## 🔗 Access
 
 🌐 https://i12a.win/gl
+
+---
+
+## 📥 Download
+
+👉 Windows Client:  
+[Download Windows Client](https://github.com/RandellStack/Globelink/releases/download/1.1.7/Globelink_Setup_v1.1.7.1.exe)
+
+👉 Android APK:  
+[Download Android APK](https://github.com/RandellStack/Globelink/releases/download/1.1.7/globelink_1.1.7.apk)
 
 ---
 
@@ -78,7 +88,7 @@ If your VPN is unstable or not working, use a more reliable solution:
 
 - ✔ 安卓  
 - ✔ Windows / PC  
-- ✔ macOS
+- ✔ macOS  
 - ✔ iOS  
 
 ---
@@ -92,6 +102,16 @@ If your VPN is unstable or not working, use a more reliable solution:
 ## 🔗 访问地址
 
 https://i12a.win/gl
+
+---
+
+## 📥 客户端下载
+
+👉 Windows 客户端：  
+[点击下载 Windows 客户端](https://github.com/RandellStack/Globelink/releases/download/1.1.7/Globelink_Setup_v1.1.7.1.exe)
+
+👉 Android 客户端：  
+[点击下载 Android APK](https://github.com/RandellStack/Globelink/releases/download/1.1.7/globelink_1.1.7.apk)
 
 ---
 
@@ -119,7 +139,7 @@ https://i12a.win/gl
 
 - ✔ Android  
 - ✔ Windows / PC  
-- ✔ macOS 
+- ✔ macOS  
 - ✔ iOS  
 
 ---
@@ -133,6 +153,16 @@ https://i12a.win/gl
 ## 🔗 Сайт
 
 https://i12a.win/gl
+
+---
+
+## 📥 Скачать
+
+👉 Windows:  
+[Скачать Windows](https://github.com/RandellStack/Globelink/releases/download/1.1.7/Globelink_Setup_v1.1.7.1.exe)
+
+👉 Android:  
+[Скачать APK](https://github.com/RandellStack/Globelink/releases/download/1.1.7/globelink_1.1.7.apk)
 
 ---
 
@@ -160,8 +190,8 @@ https://i12a.win/gl
 
 - ✔ اندروید  
 - ✔ ویندوز  
-- ✔ macOS 
-- ✔ iOS 
+- ✔ macOS  
+- ✔ iOS  
 
 ---
 
@@ -174,3 +204,13 @@ https://i12a.win/gl
 ## 🔗 وب‌سایت
 
 https://i12a.win/gl
+
+---
+
+## 📥 دانلود
+
+👉 ویندوز:  
+[دانلود نسخه ویندوز](https://github.com/RandellStack/Globelink/releases/download/1.1.7/Globelink_Setup_v1.1.7.1.exe)
+
+👉 اندروید:  
+[دانلود APK](https://github.com/RandellStack/Globelink/releases/download/1.1.7/globelink_1.1.7.apk)
