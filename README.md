@@ -1,4 +1,4 @@
-# VPN Not Working? ChatGPT VPN Solution | 日本 美国 香港线路 | 免费试用 | VPN解决方案 | VPN не работает | VPN کار نمی‌کند
+# VPN Not Working? ChatGPT VPN Solution | 日本 美国 香港线路 | 试用 | VPN解决方案 | VPN не работает | VPN کار نمی‌کند
 
 > Fix VPN issues | Access global internet | Works with ChatGPT
 
